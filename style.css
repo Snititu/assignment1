@@ -1,0 +1,74 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0%;
+}
+body {
+}
+h3 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: blue;
+  margin-left: 300px;
+}
+h4 {
+  color: blueviolet;
+  margin-left: 60px;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+img {
+  display: flex;
+  width: 200px;
+  height: 100px;
+  flex-direction: row;
+  padding-left: 50px;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+table {
+  width: 900px;
+}
+#list {
+  display: flex;
+  flex-direction: row;
+}
+
+#par-2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: darkblue;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+}
+#par-3 {
+  color: darkblue;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.mb-3 {
+  width: 700px;
+  border-color: blue;
+}
+#btn1 {
+  margin-left: 800px;
+  margin-top: -300px;
+  width: 300px;
+}
+footer {
+  text-align: end;
+  font-size: larger;
+  font-weight: bolder;
+  margin-right: 100px;
+  margin-top: -80px;
+  color: darkblue;
+}
+.imgft {
+  width: 300px;
+  margin-left: 800px;
+}
